@@ -37,4 +37,4 @@ I'm a New York-based IT professional transitioning into cloud and data engineeri
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/zaburat-olajide)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/zaburat-olajide) [![Portfolio](https://img.shields.io/badge/Portfolio-E3AEB0?style=flat&logo=googlechrome&logoColor=white)](https://zeezeeeee.github.io/)
